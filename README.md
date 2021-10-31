@@ -11,4 +11,6 @@ This information is pulled into a database to make it easier for travelers to fi
 ## Vacation Itinerary
 Another code and mapping option was created using this weather database as well. With the use of Google Maps API, I created a vacation itinerary map that allows you to input cities you would like to visit and it will map out the route. Below is an image that shows a US roadtrip starting at Mayo, going to Hurricane, San Patricio, and Cheney before returning to Mayo. 
 ![This is an image](https://github.com/weise142/World_weather_Analysis/blob/main/roadtrip.png)
+Along wth plotting cities within your ideal weather conditions, this code will also pull up hotel information in a city of your choice, as in the image below:
+![This is an image](https://github.com/weise142/World_weather_Analysis/blob/main/Hotel%20info.png)
 By using these tools, travelers can filter their destinations using their ideal weather conditions and then create an itinerary for their next vacation
